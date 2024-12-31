@@ -25,7 +25,7 @@
 * Mysql
 
 ## 구조
-![](introduce/structure.png)
+![](introduce/structure.PNG)
 
 ## 담당 영역
 * 프로젝트의 UI/UX 디자인 설계 및 구현
